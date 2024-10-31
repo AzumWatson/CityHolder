@@ -1,0 +1,4 @@
+# protocol://username:password@host:port
+# username:password@host:port
+# host:port:username:password
+# host:port
